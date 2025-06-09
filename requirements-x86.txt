@@ -18,3 +18,4 @@ prometheus-client
 # Rewriter
 sql-metadata
 mo-sql-parsing>=9.262.22323
+h11>=0.16.0 # not directly required, pinned by Snyk to avoid a vulnerability
